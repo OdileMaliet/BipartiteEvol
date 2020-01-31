@@ -1,5 +1,4 @@
 
-source("ComputeMetricsEtablissement.R")
 source("main.R")
 source("beta.R")
 library(bipartite)
